@@ -18,10 +18,10 @@ int main()
     {
         arr[i] = arr[i - 1];
     }
-    arr[index] = value;            // inserting
-    for (int i = 0; i < size+1; i++) // output
+    arr[index] = value;                // inserting
+    for (int i = 0; i < size + 1; i++) // output
     {
-        cout << arr[i]<<" ";
+        cout << arr[i] << " ";
     }
 
     return 0;
