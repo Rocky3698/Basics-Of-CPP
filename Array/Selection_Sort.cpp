@@ -33,6 +33,7 @@ int main()
         cout << arr[i] << " ";
     }
     cout << endl;
+    
     // Sorted in descending order
     for (int i = 0; i < size - 1; i++)
     {
