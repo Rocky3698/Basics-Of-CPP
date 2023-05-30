@@ -28,12 +28,13 @@ int main()
             }
         }
     }
-    for (int i = 0; i < size; i++)
+
+    for (int i = 0; i < size; i++) // output
     {
         cout << arr[i] << " ";
     }
     cout << endl;
-    
+
     // Sorted in descending order
     for (int i = 0; i < size - 1; i++)
     {
@@ -47,7 +48,8 @@ int main()
             }
         }
     }
-    for (int i = 0; i < size; i++)
+
+    for (int i = 0; i < size; i++) // output
     {
         cout << arr[i] << " ";
     }
