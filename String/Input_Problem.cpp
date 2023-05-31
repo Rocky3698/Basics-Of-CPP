@@ -8,10 +8,15 @@ int main()
     cout.tie(0);
 
     int a;
-    cin>>a;
-    
+    cin >> a;
+
     string s;
-    cin>>s;
+    cin >> s;
+
+    string s1;
+    getline(cin, s1);
+
+    cin.ignore(); // for ingnore Enter
 
     return 0;
 }
