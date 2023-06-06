@@ -15,6 +15,7 @@ int main()
     eye -= dall;
     body -= dall;
     mouth -= dall;
+    
     dall += min(eye / 2, body);
     eye -= (dall * 2);
     body -= dall;
