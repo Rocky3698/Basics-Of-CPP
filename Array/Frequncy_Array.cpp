@@ -15,7 +15,7 @@ int main()
     // {
     //     cin >> arr[i];
     // }
-    
+
     int a;
     int frequency[10] = {0};
     for (int i = 0; i < size; i++)
@@ -29,7 +29,7 @@ int main()
     //     frequency[arr[i]]++;
     // }
 
-    for (int i = 0; i < 10; i++) //output
+    for (int i = 0; i < 10; i++) // output
     {
         cout << i << "-->"
              << " " << frequency[i] << endl;
