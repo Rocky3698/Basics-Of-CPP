@@ -1,3 +1,0 @@
-1 6 rocky
-2 7 moni
-3 5 shahin

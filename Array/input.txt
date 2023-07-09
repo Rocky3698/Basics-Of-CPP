@@ -1,3 +1,0 @@
-shahin 3 5
-rocky 1 6
-moni 2 7 1
