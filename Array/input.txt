@@ -1,7 +1,3 @@
-
-shain
-22 3
-rocky
-21 4
-moni
-23 1
+shahin 3 5
+rocky 1 6
+moni 2 7 1
