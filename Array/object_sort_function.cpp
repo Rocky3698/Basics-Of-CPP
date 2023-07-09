@@ -23,7 +23,7 @@ int main()
     {
         cin >> s[i].name >> s[i].ID >> s[i].marks;
     }
-    sort(s,s+3,cmp);
+    sort(s,s+3,cmp);//calling custom sort function
     for (int i = 0; i < 3; i++)
     {
         cout << s[i].ID << " " << s[i].marks << " " << s[i].name << endl;
