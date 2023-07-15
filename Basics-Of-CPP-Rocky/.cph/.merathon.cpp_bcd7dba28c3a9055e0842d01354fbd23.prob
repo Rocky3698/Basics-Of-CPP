@@ -1,0 +1,1 @@
+{"name":"Local: merathon","url":"/home/rocky/Desktop/CPP/merathon.cpp","tests":[{"id":1685801873775,"input":"4\n1 10\n2 2\n4 2\n1 1","output":"CHEFINA\nCHEFINA\nCHEF"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rocky/Desktop/CPP/merathon.cpp","group":"local","local":true}
